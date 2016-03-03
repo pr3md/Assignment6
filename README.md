@@ -6,7 +6,7 @@ Report: Documentation/Report.pdf
 | Service             | Request URL                                  |
 |---------------------|----------------------------------------------|
 |Simple Interest      | /calculate/si/{principle-amount}/{term}/{roi}|
-|Compound Interest    | /calculate/ci/{p}/{r}/{n}{t}                 |
+|Compound Interest    | /calculate/ci/{p}/{r}/{n}/{t}                |
 |Kelvin to Fahrenheit | /metrics/kelvintoF/{Kelvin-Value}            |
 |Kelvin to Celsius    | /metrics/kelvintoC/{Kelvin-Value}            |
 ---
