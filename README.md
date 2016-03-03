@@ -3,4 +3,5 @@ CS5551 - Advanced Software Engineering
 
 Report: Documentation/Report.pdf
 
+![alt-text][logo]
 [logo]: https://raw.githubusercontent.com/pr3md/Assignment6/master/Documentation/index.PNG "Response log on Console"
